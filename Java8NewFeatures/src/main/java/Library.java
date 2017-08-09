@@ -5,4 +5,7 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+	    public void someLibraryMethod() {
+        return true;
+    }
 }
